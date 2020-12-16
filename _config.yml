@@ -18,10 +18,11 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Blog
-email: 43303906+SerenityIK@users.noreply.github.com
+title: Zen-IT
+email: serenity597th@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Hi folks! My name is Irakliy Krasnov and i'm backend developer on Python, Erlang/OTP, and Elixir. This my personal blog, where i want to share some inter  esting things i have came across to.
+  Hi folks! My name is Irakliy Krasnov and i'm backend Python, Erlang/OTP, and Elixir developer. This my personal blog, where i want to share some
+  interesting things i've came across to.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  SerenityIK
