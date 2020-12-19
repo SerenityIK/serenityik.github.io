@@ -21,7 +21,7 @@
 title: Zen-IT
 email: serenity597th@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Hi folks! My name is Irakliy Krasnov and i'm backend Python, Erlang/OTP, and Elixir developer. This my personal blog, where i want to share some
+  Hi folks! My name is Irakliy Krasnov and i'm backend Python, Erlang/OTP and Elixir developer. This my personal blog, where i want to share some
   interesting things i've came across to.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
